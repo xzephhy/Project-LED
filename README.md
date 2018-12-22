@@ -2,6 +2,7 @@
 Get a working Raspberry Pi. 
 #Date: 16/03/18
 #Description: This code is designed to activate a Raspberry Pi's LEDs in a sequence.
+#This project can be replicated, if you'd like to try it go to thePiHut. 
 
 import RPi.GPIO as GPIO  #Tells the python interpreter which library we will be using.
 
